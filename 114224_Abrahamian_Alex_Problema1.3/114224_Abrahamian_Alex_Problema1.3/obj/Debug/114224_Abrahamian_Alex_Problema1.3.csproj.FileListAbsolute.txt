@@ -1,0 +1,13 @@
+C:\Users\marti\source\repos\114224_Abrahamian_Alex_Problema1.3\114224_Abrahamian_Alex_Problema1.3\bin\Debug\114224_Abrahamian_Alex_Problema1.3.exe.config
+C:\Users\marti\source\repos\114224_Abrahamian_Alex_Problema1.3\114224_Abrahamian_Alex_Problema1.3\bin\Debug\114224_Abrahamian_Alex_Problema1.3.exe
+C:\Users\marti\source\repos\114224_Abrahamian_Alex_Problema1.3\114224_Abrahamian_Alex_Problema1.3\bin\Debug\114224_Abrahamian_Alex_Problema1.3.pdb
+C:\Users\marti\source\repos\114224_Abrahamian_Alex_Problema1.3\114224_Abrahamian_Alex_Problema1.3\obj\Debug\114224_Abrahamian_Alex_Problema1.3.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\114224_Abrahamian_Alex_Problema1.3\114224_Abrahamian_Alex_Problema1.3\obj\Debug\_114224_Abrahamian_Alex_Problema1._3.GridView.resources
+C:\Users\marti\source\repos\114224_Abrahamian_Alex_Problema1.3\114224_Abrahamian_Alex_Problema1.3\obj\Debug\_114224_Abrahamian_Alex_Problema1._3.Main_window.resources
+C:\Users\marti\source\repos\114224_Abrahamian_Alex_Problema1.3\114224_Abrahamian_Alex_Problema1.3\obj\Debug\_114224_Abrahamian_Alex_Problema1._3.Properties.Resources.resources
+C:\Users\marti\source\repos\114224_Abrahamian_Alex_Problema1.3\114224_Abrahamian_Alex_Problema1.3\obj\Debug\114224_Abrahamian_Alex_Problema1.3.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\114224_Abrahamian_Alex_Problema1.3\114224_Abrahamian_Alex_Problema1.3\obj\Debug\114224_Abrahamian_Alex_Problema1.3.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\114224_Abrahamian_Alex_Problema1.3\114224_Abrahamian_Alex_Problema1.3\obj\Debug\114224_Abrahamian_Alex_Problema1.3.exe
+C:\Users\marti\source\repos\114224_Abrahamian_Alex_Problema1.3\114224_Abrahamian_Alex_Problema1.3\obj\Debug\114224_Abrahamian_Alex_Problema1.3.pdb
+C:\Users\marti\source\repos\114224_Abrahamian_Alex_Problema1.3\114224_Abrahamian_Alex_Problema1.3\obj\Debug\_114224_Abrahamian_Alex_Problema1._3.CRUD_Cliente.resources
+C:\Users\marti\source\repos\114224_Abrahamian_Alex_Problema1.3\114224_Abrahamian_Alex_Problema1.3\obj\Debug\_114224_Abrahamian_Alex_Problema1._3.CRUD_Cuenta.resources
